@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+
+    .quiz-container {
+        max-width: 900px;
+        margin: 30px auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .question {
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .result-box {
+        display: none;
+        margin-top: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #e9f7ef;
+        border: 1px solid #28a745;
+    }
